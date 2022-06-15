@@ -12,3 +12,4 @@ $sandi_tumbal="Turnitin@2029";
 //masukan username ig yang akan
 //di tambah follow
 $username="chrestian90";
+?>
